@@ -1,15 +1,8 @@
-# Getting Started with Create React App
+Welcome to our modern web-based news application, designed for seamless news discovery across various categories.
+Explore a diverse selection of news in technology, football, and books right on the dynamic homepage. Our organized navigation menu ensures easy access to specific categories, making browsing effortless.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Enhance your experience by saving favorite articles for quick access later. Personalize your news journey with our favorites functionality, tailored to your interests.
 
-## Available Scripts
+Join us on this exciting news exploration where technology meets convenience, providing a personalized news experience at your fingertips.
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+https://whimsical-beijinho-dd9646.netlify.app/
